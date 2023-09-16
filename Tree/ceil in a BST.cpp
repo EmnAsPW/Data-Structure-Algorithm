@@ -21,5 +21,5 @@ int findCeil(BinaryTreeNode<int> *root, int key)
             root = root->left;
         }
     }
-    return ceil;
+    return ceil; // 123
 }
